@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LUXE</string>
+    <string name="title_activity_main">LUXE</string>
+    <string name="package_name">com.luxe.social</string>
+    <string name="custom_url_scheme">com.luxe.social</string>
+</resources>
